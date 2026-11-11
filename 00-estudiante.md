@@ -2,5 +2,5 @@
 
 - **Apellido y nombre:**
 - **Carrera:** Tecnicatura Superior en Preceptoría
-- **Cohorte / turno:**
-- **Fecha:**
+- **Cohorte / turno:2026
+- **Fecha:
